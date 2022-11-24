@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1668763744 source:c:\users\administrator\desktop\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<string.h>
+	<time.h>
+	<stdlib.h>
+
+1668911880 source:c:\users\administrator\desktop\set_icon.rc
+
+1669272883 source:c:\users\administrator\desktop\file_lock\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<string.h>
+	<time.h>
+	<stdlib.h>
+
+1668911880 source:c:\users\administrator\desktop\file_lock\set_icon.rc
+
+1669272677 source:c:\users\administrator\desktop\file_lock\add_icon.rc
+
