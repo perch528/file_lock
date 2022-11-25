@@ -7,3 +7,7 @@
 ## 添加bat环境变量配置脚本 --> Windows
 # 安装说明
 ## Windows环境下，下载后编译完成后双击bat脚本即可完成配置
+# 使用说明
+## 在命令行输入
+## file_lock.exe [password] [read_file] [write_file]
+## file_lock.exe [密码] [被加密文件] [生成文件]
